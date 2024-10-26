@@ -243,6 +243,7 @@ X:\lab works\Activity-46-TaskManager\Taskmanager_c#\TaskManager\TaskManager\obj\
 X:\lab works\Activity-46-TaskManager\Taskmanager_c#\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.csproj.CoreCompileInputs.cache
 X:\lab works\Activity-46-TaskManager\Taskmanager_c#\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.MvcApplicationPartsAssemblyInfo.cs
 X:\lab works\Activity-46-TaskManager\Taskmanager_c#\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.MvcApplicationPartsAssemblyInfo.cache
+X:\lab works\Activity-46-TaskManager\Taskmanager_c#\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.sourcelink.json
 X:\lab works\Activity-46-TaskManager\Taskmanager_c#\TaskManager\TaskManager\obj\Debug\net8.0\staticwebassets.build.json
 X:\lab works\Activity-46-TaskManager\Taskmanager_c#\TaskManager\TaskManager\obj\Debug\net8.0\staticwebassets.development.json
 X:\lab works\Activity-46-TaskManager\Taskmanager_c#\TaskManager\TaskManager\obj\Debug\net8.0\staticwebassets\msbuild.TaskManager.Microsoft.AspNetCore.StaticWebAssets.props

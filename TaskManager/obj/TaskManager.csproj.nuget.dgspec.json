@@ -10,11 +10,11 @@
         "projectUniqueName": "X:\\lab works\\Activity-46-TaskManager\\Taskmanager_c#\\TaskManager\\TaskManager\\TaskManager.csproj",
         "projectName": "TaskManager",
         "projectPath": "X:\\lab works\\Activity-46-TaskManager\\Taskmanager_c#\\TaskManager\\TaskManager\\TaskManager.csproj",
-        "packagesPath": "C:\\Users\\UT01107\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\ut01107\\.nuget\\packages\\",
         "outputPath": "X:\\lab works\\Activity-46-TaskManager\\Taskmanager_c#\\TaskManager\\TaskManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\UT01107\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ut01107\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
